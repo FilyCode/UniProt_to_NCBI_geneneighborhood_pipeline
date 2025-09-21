@@ -10,3 +10,6 @@ This pipeline facilitates phylogenetic enzyme homology searches by identifying g
 
 ## Output
 The pipeline produces a `.csv` file containing a detailed overview of the identified genes within their respective genomic neighborhoods.
+
+## Authorship
+This pipeline and its associated scripts were solely developed by Philipp Trollmann as part of his initial PhD rotation in the group of Dr. Pinghua Liu at Boston University.
