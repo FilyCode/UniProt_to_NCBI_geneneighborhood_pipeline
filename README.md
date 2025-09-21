@@ -6,7 +6,7 @@ This pipeline facilitates phylogenetic enzyme homology searches by identifying g
 ## Scripts
 
 *   **`Gene-search-pipeline.ipynb`**: This Jupyter Notebook serves as the main interactive interface. It allows users to input UniProt IDs, execute API queries, and generate the gene overview file.
-*   **`Gene-neighborhood-pipeline_with-matrix-calc...`**: This accompanying script provides an alternative execution path, potentially incorporating specialized matrix calculations for downstream analysis.
+*   **`Gene-neighborhood-pipeline_with-matrix-calc...`**: This accompanying script provides additonal matrix calculations for downstream analysis and visualization.
 
 ## Output
 The pipeline produces a `.csv` file containing a detailed overview of the identified genes within their respective genomic neighborhoods.
